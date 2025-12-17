@@ -3,9 +3,14 @@ This Simple Scientific Calculator Website using some basic of HTML, CSS and Java
 
 This is an simple scientific calculator web application supporting arithmetic, trigonometric, inverse trigonometric, logarithmic, power, and factorial operations. It is developed using HTML, CSS, and JavaScript and hosted using GitHub pages.
 
-# PROJECT OVERVIEW STRUCTURE
-│
-├── index.html
-├── style.css
-├── script.js
-└── calculator.png
+## PROJECT OVERVIEW STRUCTURE
+
+Simple_scientific_calculator
+
+• index.html
+
+• style.css
+
+• script.js
+
+• calculator.png

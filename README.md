@@ -14,3 +14,5 @@ Simple_scientific_calculator
 • script.js
 
 • calculator.png
+
+This site is live at https://rachaitamishra.github.io/Simple-Scientific-Calculator/
